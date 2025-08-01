@@ -1,6 +1,6 @@
 export const config = {
-    user: 'oauth-eduferr.qa-48836',
-    key: '68202942-bcbf-44bb-86cc-4dde1deaf14f',
+    user: 'oauth-*******836', //Necessário configurar
+    key: '68*******af14f',//Necessário configurar
     hostname: 'ondemand.us-west-1.saucelabs.com',
     port: 443,
     baseUrl: 'wd/hub',
