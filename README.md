@@ -1,1 +1,1 @@
-# Eduferr-teste-app-mobile-tarefa-saucelabs
+# teste-app-mobile-tarefa-sauceLabs
